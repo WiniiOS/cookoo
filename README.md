@@ -1,6 +1,7 @@
 # Cookbook
 
-A new Flutter project.
+Project Flutter
+Application de recettes de cuisine avec favoris et formulaires d'ajouts de recettes plus stockage en local des données
 
 ## Getting Started
 
